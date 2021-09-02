@@ -1,0 +1,20 @@
+.box1 {
+  /* ヘッダーの領域内300px */
+  width: 300px;
+  height: 300px;
+  
+  /* 背景色の設定 */
+  background-color: red;
+  margin: 30px;
+  padding: 30px;
+}
+/*　box1の中にbox 　　 */
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    /* 指定方法（box2の周囲すべてに枠線を設定する場合） */
+  /* solidは枠線（実践）　pxで太さ変更 */
+    border: 5px solid yellow;
+  }
+}
