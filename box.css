@@ -4,7 +4,7 @@
   height: 300px;
   
   /* 背景色の設定 */
-  background-color: red;
+  background-color:#4169E1;
   margin: 30px;
   padding: 30px;
 }
@@ -12,9 +12,9 @@
 .box2 {
     width: 100px;
     height: 100px;
-    background-color: blue;
+    background-color:#FF1A6F	;
     /* 指定方法（box2の周囲すべてに枠線を設定する場合） */
   /* solidは枠線（実践）　pxで太さ変更 */
-    border: 5px solid yellow;
+    border: 5px solid #FFFFCC;
   }
 }
